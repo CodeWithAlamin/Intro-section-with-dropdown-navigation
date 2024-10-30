@@ -9,7 +9,7 @@ Challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges)
 <div align="center">
 
 <!-- Live -->
-<a href="https://intro-section-with-dropdown-navigation-codepapa360.vercel.app/">
+<a href="https://intro-section-with-dropdown-navigation-alamin.vercel.app/">
     <img src="https://custom-icon-badges.demolab.com/badge/Live%20Demo-blue?style=for-the-badge&logo=live360&labelColor=666666" alt="Live Demo" />
 </a>
 
@@ -39,9 +39,9 @@ This repository contains my solution to the Frontend Mentor challenge "Intro sec
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://intro-section-with-dropdown-navigation-codepapa360.vercel.app/">
+<a align="center" href="https://intro-section-with-dropdown-navigation-alamin.vercel.app/">
 
-![Screenshot](./screenshots/Intro-section-with-dropdown-navigation-screenshot-codepapa360.png)
+![Screenshot](./screenshots/Intro-section-with-dropdown-navigation-screenshot-CodeWithAlamin.png)
 
 </a>
 
@@ -70,7 +70,7 @@ Users should be able to:
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/Intro-section-with-dropdown-navigation.git
+git clone https://github.com/CodeWithAlamin/Intro-section-with-dropdown-navigation.git
 ```
 
 - Install dependencies:
@@ -95,10 +95,10 @@ npm start
 
 <b>👤 Alamin</b>
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Github: [@CodeWithAlamin](https://github.com/CodeWithAlamin)
 
 Feel free to contact me with any questions or feedback!
 
@@ -112,4 +112,4 @@ Special thanks to Frontend Mentor for providing such an amazing platform to prac
 
 ## License
 
-This project is licensed under the [MIT](https://github.com/CodePapa360/Intro-section-with-dropdown-navigation/blob/main/LICENSE.md) license, which means you can use, modify, and distribute the code as you wish. If you have any questions or feedback, feel free to reach out. Thank you for considering my code!
+This project is licensed under the [MIT](https://github.com/CodeWithAlamin/Intro-section-with-dropdown-navigation/blob/main/LICENSE.md) license, which means you can use, modify, and distribute the code as you wish. If you have any questions or feedback, feel free to reach out. Thank you for considering my code!
